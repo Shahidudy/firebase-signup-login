@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092249810802",
+    "project_id": "signlog-9452c",
+    "storage_bucket": "signlog-9452c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092249810802:android:d39ea52e88808c47e64feb",
+        "android_client_info": {
+          "package_name": "com.example.signlog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBOE7De00FUL1Lm8r7iOsabYWSMKIa9wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
